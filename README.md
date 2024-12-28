@@ -113,7 +113,7 @@ TODO: Update list of researchers
 
 [Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey](https://arxiv.org/pdf/2407.21794) by Miyai et al.
 
-[Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/pdf/2110.11334.pdf) by Yang et al
+[Generalized Out-of-Distribution Detection: A Survey](https://arxiv.org/pdf/2110.11334.pdf) by Yang et al   已读 需要整理 很好
 
 [A Unified Survey on Anomaly, Novelty, Open-Set, and Out of-Distribution Detection: Solutions and Future Challenges](https://arxiv.org/pdf/2110.14051.pdf) by Salehi et al.
 
@@ -137,7 +137,7 @@ TODO: Update list of researchers
 
 (NeurIPS 2024) [Long-Tailed Out-of-Distribution Detection via Normalized Outlier Distribution Adaptation]() by Miao et al.
 
-(NeurIPS 2024) [Trajectory Volatility for Out-of-Distribution Detection in Mathematical Reasoning]() by Wang et al.
+(NeurIPS 2024) [Trajectory Volatility for Out-of-Distribution Detection in Mathematical Reasoning]() by Wang et al. 已读
 
 (NeurIPS 2024) [Rethinking Out-of-Distribution Detection on Imbalanced Data Distribution]() by Liu et al.
 
@@ -273,7 +273,7 @@ TODO: Update list of researchers
 
 (NeurIPS 2023) [Diversify & Conquer: Outcome-directed Curriculum RL via Out-of-distribution Disagreement](https://proceedings.neurips.cc/paper_files/paper/2023/file/a815fe7cad6af20a6c118f2072a881d2-Paper-Conference.pdf) by Cho et al.
 
-(NeurIPS 2023) [LoCoOp: Few-Shot Out-of-distribution Detection via Prompt Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/f0606b882692637835e8ac981089eccd-Paper-Conference.pdf) [[Code]](https://github.com/AtsuMiyai/LoCoOp) by Miyai et al.
+(NeurIPS 2023) [LoCoOp: Few-Shot Out-of-distribution Detection via Prompt Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/f0606b882692637835e8ac981089eccd-Paper-Conference.pdf) [[Code]](https://github.com/AtsuMiyai/LoCoOp) by Miyai et al. 已读
 
 (NeurIPS 2023) [Category-Extensible Out-of-distribution Detection via Hierarchical Context Descriptions](https://proceedings.neurips.cc/paper_files/paper/2023/file/695b6f9490d27d852e439e35c56e73e3-Paper-Conference.pdf) by Liu et al.
 
